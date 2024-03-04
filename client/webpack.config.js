@@ -34,7 +34,7 @@ new WebpackPwaManifest({
         inject: true,
         name: 'Just Another Text Editor',
         short_name: 'J.A.T.E',
-        description: 'This is an app that creates a text editor for you',
+        description: 'J.A.T.E is a web text editor that can also be downloaded via PWA',
         background_color: '#225ca3',
         theme_color: '#225ca3',
         start_url: '/',
